@@ -15,7 +15,7 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
 
   - Converting Color Spaces
 
-3.Geometric Transformation
+3. Geometric Transformation
 
 4. Intensity Transformation
 
