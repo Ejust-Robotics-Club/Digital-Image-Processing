@@ -25,21 +25,21 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
 
 7.Spatial Filters (Smoothing & sharpening Filters)
 
-  7.1 Gaussian Filter
+- Gaussian Filter
   
-  7.2 Non-Linear Filters (Median Filter)
+- Non-Linear Filters (Median Filter)
   
-  7.3 Averaging Filter
+- Averaging Filter
   
-  7.4 Laplacian Filter
+- Laplacian Filter
   
 8.Contours
 
-  8.1 Contour Detecting
+- Contour Detecting
   
-  8.2 Contour Features
+- Contour Features
   
-  8.3 Contour Proprieties
+- Contour Proprieties
   
 
 
