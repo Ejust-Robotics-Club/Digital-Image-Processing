@@ -41,6 +41,6 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
   
 - Contour Proprieties
 
-The content will be uploaded as courses are launched
+The content will be uploaded when courses are launched
 
 Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).
