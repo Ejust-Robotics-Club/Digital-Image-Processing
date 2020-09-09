@@ -6,22 +6,39 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
 ## Course Content
 
 1. Introduction to Image Processing
+
 2. Basic Image Processing
+
   •	Arithmetic Operations
+
   •	Relations Between Pixels
+
   •	Converting Color Spaces
+
 3.Geometric Transformation
+
 4. Intensity Transformation
+
 5.  Histogram Processing
+
 6. Thresholding
+
 7. Spatial Filters (Smoothing & sharpening Filters)
+
   •	Gaussian Filter
+  
   •	Non-Linear Filters (Median Filter)
+  
   •	Averaging Filter
+  
   •	Laplacian Filter
+  
 8. Contours
+
   •	Contour Detecting
+  
   •	Contour Features
+  
   •	Contour Proprieties
 
 
