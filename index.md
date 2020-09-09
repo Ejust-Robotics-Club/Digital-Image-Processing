@@ -43,6 +43,6 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
 
 ## Course Instructors
 
-![Eng.Islam Shafeek](  https://drive.google.com/drive/u/1/folders/1fPgyRjuozW8YBASbXQrKvuizlqGYNip)
+![Eng.Islam Shafeek](https://github.com/Ejust-Robotics-Club/Digital-Image-Processing/blob/gh-pages/FB_IMG_1599671871360.jpg)
 
 Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).
