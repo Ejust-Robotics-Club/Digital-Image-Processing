@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to Robotics Club Family
+Important Note: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
-You can use the [editor on GitHub](https://github.com/Ejust-Robotics-Club/Digital-Image-Processing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Course Describtion
+Machine vision is one of crucial robotics’ kit. Such that, Perception provides Robots with information about the world they inhabit by interpreting the sensor (Camera) response. It’s not an easy task to extract information from an image and take a decision based on it, it requires high level of image processing (machine vision). So, in this course we will start with low level of digital image processing. At end of this course, you will have a basic concept in field of image processing, how to deal with MATLAB’S image processing toolbox and you will be able to understand most of the building blocks in machine vision or digital image processing algorithms.
 
 ```markdown
 Syntax highlighted code block
