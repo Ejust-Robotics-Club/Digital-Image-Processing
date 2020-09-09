@@ -33,7 +33,7 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
   
   7.4 Laplacian Filter
   
-8. Contours
+8.Contours
 
   8.1 Contour Detecting
   
